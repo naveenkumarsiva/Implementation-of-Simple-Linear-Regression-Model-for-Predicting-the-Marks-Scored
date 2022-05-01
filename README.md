@@ -52,8 +52,8 @@ plt.show()
 */
 ```
 ## Output:
-![simple linear regression model for predicting the marks scored](hour.png)
-![simple linear regression model for predicting the marks scored](minute.png)
+![simple](./hour.png)
+![simple](./minute.png)
 
 
 ## Result:
