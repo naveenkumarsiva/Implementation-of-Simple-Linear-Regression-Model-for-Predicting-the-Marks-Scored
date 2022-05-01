@@ -52,8 +52,8 @@ plt.show()
 */
 ```
 ## Output:
-![simple](./hour.png)
-![simple](./minute.png)
+![simple](hour.png)
+![simples](minute.png)
 
 
 ## Result:
